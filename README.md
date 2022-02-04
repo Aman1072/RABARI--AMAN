@@ -13,5 +13,8 @@ i have finished my secondry education from Knwledge high school
 # my fav. cricketers?
 My favourite cricketer is Virat Kohli and Ab de villiers.
 
+# my fav. place?
+my fav. place to visit is london.
+
 
 
